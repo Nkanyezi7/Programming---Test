@@ -98,6 +98,7 @@ namespace Random_Password_Generator
             }
 
             //uppercase characters
+            //this is a comment
             for (char c = 'A'; c <= 'Z'; c++)
             {
                 characters.Add(c);
